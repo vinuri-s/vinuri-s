@@ -5,7 +5,7 @@
 <a href="https://twitter.com/_vinuri_"><img height="30" src="twitter-32x32.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/piyathilakev"><img height="30" src="linkedin-32x32.png"></a>&nbsp;&nbsp;
 <a href="https://github.com/vinuri_s"><img height="30" src="github-32x32.png"></a>&nbsp;&nbsp;
-<a href="https://vinuri.codes"><img height="40" src="web-32x32.png">
+<a href="https://vinuri.codes"><img height="30" src="web-32x32.png">
 </p>
 
 
