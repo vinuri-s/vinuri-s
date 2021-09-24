@@ -1,4 +1,4 @@
-<h1 align="center"><img src="banner.png" ></h1>
+<h1 align="center"><img src="bannernew.png" ></h1>
 <!-- <p align='center'>
 <a href="https://www.facebook.com/vinuri.piyathilake"><img height="30" src="facebook-32x32.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/vinuri_s"><img height="30" src="instagram-32x32.png"></a>&nbsp;&nbsp;
